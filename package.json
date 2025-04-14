@@ -5,7 +5,7 @@
     "type": "commonjs",
     "scripts": {
         "dev": "next dev",
-        "build": "npm run build",
+        "build": "next build",
         "start": "next start",
         "lint": "next lint",
         "type-check": "tsc"
